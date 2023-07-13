@@ -1,2 +1,0 @@
-# cinemas
-# Cinemas-vue
